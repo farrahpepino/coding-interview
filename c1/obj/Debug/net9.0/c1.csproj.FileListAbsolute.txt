@@ -1,0 +1,15 @@
+/Users/farrahpepino/Documents/GitHub/coding-interview/c1/obj/Debug/net9.0/c1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/farrahpepino/Documents/GitHub/coding-interview/c1/obj/Debug/net9.0/c1.AssemblyInfoInputs.cache
+/Users/farrahpepino/Documents/GitHub/coding-interview/c1/obj/Debug/net9.0/c1.AssemblyInfo.cs
+/Users/farrahpepino/Documents/GitHub/coding-interview/c1/obj/Debug/net9.0/c1.csproj.CoreCompileInputs.cache
+/Users/farrahpepino/Documents/GitHub/coding-interview/c1/obj/Debug/net9.0/c1.sourcelink.json
+/Users/farrahpepino/Documents/GitHub/coding-interview/c1/bin/Debug/net9.0/c1
+/Users/farrahpepino/Documents/GitHub/coding-interview/c1/bin/Debug/net9.0/c1.deps.json
+/Users/farrahpepino/Documents/GitHub/coding-interview/c1/bin/Debug/net9.0/c1.runtimeconfig.json
+/Users/farrahpepino/Documents/GitHub/coding-interview/c1/bin/Debug/net9.0/c1.dll
+/Users/farrahpepino/Documents/GitHub/coding-interview/c1/bin/Debug/net9.0/c1.pdb
+/Users/farrahpepino/Documents/GitHub/coding-interview/c1/obj/Debug/net9.0/c1.dll
+/Users/farrahpepino/Documents/GitHub/coding-interview/c1/obj/Debug/net9.0/refint/c1.dll
+/Users/farrahpepino/Documents/GitHub/coding-interview/c1/obj/Debug/net9.0/c1.pdb
+/Users/farrahpepino/Documents/GitHub/coding-interview/c1/obj/Debug/net9.0/c1.genruntimeconfig.cache
+/Users/farrahpepino/Documents/GitHub/coding-interview/c1/obj/Debug/net9.0/ref/c1.dll

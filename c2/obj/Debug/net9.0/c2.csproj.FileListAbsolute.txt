@@ -1,0 +1,15 @@
+/Users/farrahpepino/Documents/GitHub/coding-interview/c2/bin/Debug/net9.0/c2
+/Users/farrahpepino/Documents/GitHub/coding-interview/c2/bin/Debug/net9.0/c2.deps.json
+/Users/farrahpepino/Documents/GitHub/coding-interview/c2/bin/Debug/net9.0/c2.runtimeconfig.json
+/Users/farrahpepino/Documents/GitHub/coding-interview/c2/bin/Debug/net9.0/c2.dll
+/Users/farrahpepino/Documents/GitHub/coding-interview/c2/bin/Debug/net9.0/c2.pdb
+/Users/farrahpepino/Documents/GitHub/coding-interview/c2/obj/Debug/net9.0/c2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/farrahpepino/Documents/GitHub/coding-interview/c2/obj/Debug/net9.0/c2.AssemblyInfoInputs.cache
+/Users/farrahpepino/Documents/GitHub/coding-interview/c2/obj/Debug/net9.0/c2.AssemblyInfo.cs
+/Users/farrahpepino/Documents/GitHub/coding-interview/c2/obj/Debug/net9.0/c2.csproj.CoreCompileInputs.cache
+/Users/farrahpepino/Documents/GitHub/coding-interview/c2/obj/Debug/net9.0/c2.sourcelink.json
+/Users/farrahpepino/Documents/GitHub/coding-interview/c2/obj/Debug/net9.0/c2.dll
+/Users/farrahpepino/Documents/GitHub/coding-interview/c2/obj/Debug/net9.0/refint/c2.dll
+/Users/farrahpepino/Documents/GitHub/coding-interview/c2/obj/Debug/net9.0/c2.pdb
+/Users/farrahpepino/Documents/GitHub/coding-interview/c2/obj/Debug/net9.0/c2.genruntimeconfig.cache
+/Users/farrahpepino/Documents/GitHub/coding-interview/c2/obj/Debug/net9.0/ref/c2.dll
